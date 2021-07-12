@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # IN SHORT
 1. Clone this repo
-2. Run npm install
-3. Run npm start to use app
+2. Run `npm install`
+3. Run `npm start` to use app
